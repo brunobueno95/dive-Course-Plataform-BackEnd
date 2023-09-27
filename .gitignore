@@ -1,0 +1,4 @@
+.env
+/src/scripts
+node_modules/
+/src/utils/auth.ts
